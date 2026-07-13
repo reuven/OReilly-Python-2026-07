@@ -4,6 +4,8 @@ This repo contains the notebook + files from my training class.
 
 Enjoy!
 
+Exercises are in my practice environment here: https://practice.lernerpython.com/classroom/9b5725493f/
+
 If you liked this training, you might also like:
 
 - My YouTube channel: https://YouTube.com/reuvenlerner

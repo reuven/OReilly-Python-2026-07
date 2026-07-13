@@ -12,4 +12,5 @@ dependencies = [
     "plotly",
     "pyarrow",
     "xlrd",
+    "ipyparallel>=9.2.0",
 ]

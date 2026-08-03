@@ -1,0 +1,5 @@
+Hello.
+Hello!
+Hello?
+He said, "Hello."
+He said, 'Hello.'

@@ -9,4 +9,6 @@ def hello(name):
     return f'Hello, {name}, from mymod!'
 
 if __name__ == '__main__':
+    # from here and down, the code only runs when the program is run directly
+    # this will never run when the program/module is imported.
     print(f'Goodbye -- thanks for visiting {__name__}!')

@@ -7,5 +7,6 @@ def menu(choices):
     
         print(f'{text} is not valid; try again')
 
-s = menu(['apple', 'peach', 'strawberry'])
-print(f'User chose "{s}".')
+if __name__ == '__main__':    # only ask interactively if we're not being imported
+    s = menu(['apple', 'peach', 'strawberry'])
+    print(f'User chose "{s}".')

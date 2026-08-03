@@ -7,4 +7,5 @@ def menu(choices):
     
         print(f'{text} is not valid; try again')
 
-menu(['apple', 'peach', 'strawberry'])
+s = menu(['apple', 'peach', 'strawberry'])
+print(f'User chose "{s}".')

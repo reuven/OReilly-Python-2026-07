@@ -6,3 +6,5 @@ def menu(choices):
             return text
     
         print(f'{text} is not valid; try again')
+
+menu(['apple', 'peach', 'strawberry'])
